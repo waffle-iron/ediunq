@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/alanrodas/ediunq.png?label=ready&title=Ready)](https://waffle.io/alanrodas/ediunq)
 # EDIUNQ
 
 Proyecto principal de EDIUNQ para la materia de Arquitectura 1
